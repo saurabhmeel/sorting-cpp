@@ -3,7 +3,7 @@
 //#include<algorithms>
 using namespace std;
 
-
+//Check
 void solve( int arr[], int n)
 {
    sort(arr,arr+n);
